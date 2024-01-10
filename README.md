@@ -1,3 +1,3 @@
 # Portfolio Task
 
-![](./images/output.jpg)
+![images](./images/output.jpg)
